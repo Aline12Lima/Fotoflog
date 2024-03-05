@@ -43,7 +43,7 @@ body{
 
 .container{
     padding: 1.6rem 3.2rem;
-    
+
     width: min(112rem, 100%);
     margin: 0 auto;
 
@@ -106,4 +106,9 @@ footer{
     padding: 1.6rem;
     font-weight: 600;
 
+}
+
+footer{
+
+    block-size: auto;
 }
